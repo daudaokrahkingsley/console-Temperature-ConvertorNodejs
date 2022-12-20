@@ -18,3 +18,6 @@ function fahrenheritToCelsius(fahrenherit){
 celsiusTofahrenherit(50);
 
 fahrenheritToCelsius(50);
+
+
+//Note: You can change the figures and the code will still work
